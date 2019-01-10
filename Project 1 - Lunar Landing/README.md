@@ -1,2 +1,1 @@
-# RL_Independent_Study
-Assignments for my independent study course on Reinforcement Learning (RL)
+# Project 1 - Lunar Landing
